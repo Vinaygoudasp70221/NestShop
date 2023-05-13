@@ -1,0 +1,78 @@
+@charset "ISO-8859-1";
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-image: url("background.jpg");
+    align-items: center;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+}
+.register{
+    margin-top: 50px;
+    margin-left: 35%;
+ margin-top: -20px;
+    height: 480px;
+    width: 500px;
+    border: 2px solid black;
+    align-content: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding-left: 110px;
+    padding-top: 20px;
+
+    background-color: rgba(0, 170, 255, 0.678);
+}
+label {
+   color: rgb(91, 9, 243);
+   font-size: 17px;
+   
+   
+}
+inputplaceholder{
+    color: rgb(0, 0, 0);
+}
+#textBox{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+    background-color: rgba(36, 8, 250, 0.475);
+}
+.register label input{
+    background-color: bisque;
+}
+
+#sub{
+    width: 130px;
+    height: 30px;
+    background-color: rgba(9, 129, 248, 0.89);
+    border: 3px solid rgb(0, 255, 149) ;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-left: 90px;
+}
+#sub:hover{
+    background-color: rgba(4, 235, 252, 0.768);
+    border: 3px solid rgb(0, 38, 255) ;
+}
+a{
+    
+    color:rgba(243, 242, 241, 0.976)
+}
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: oblique;
+    text-shadow: 10px 10px 10px blue;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 80px;
+  
+}
+
